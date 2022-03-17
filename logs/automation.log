@@ -1,0 +1,299 @@
+2022-03-14 13:46:56.765 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-14 13:47:07.098 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-14 13:47:07.426 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-14 13:47:10.137 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-14 13:47:10.254 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-14 13:47:10.416 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-14 13:47:10.555 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-14 13:47:10.687 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-14 13:47:10.778 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-14 13:47:10.906 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-14 13:47:11.010 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-14 13:47:13.232 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-14 13:47:15.307 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-14 13:47:15.309 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-14 14:17:18.576 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-14 14:17:27.631 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-14 14:17:27.903 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-14 14:17:30.746 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-14 14:17:30.883 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-14 14:17:31.039 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-14 14:17:31.191 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-14 14:17:31.307 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-14 14:17:31.416 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-14 14:17:31.523 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-14 14:17:31.593 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-14 14:17:33.971 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-14 14:17:36.043 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-14 14:17:36.046 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-14 14:25:53.830 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-14 14:26:05.442 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-14 14:26:05.783 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-14 14:26:08.226 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-14 14:26:08.333 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-14 14:26:08.466 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-14 14:26:08.644 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-14 14:26:08.810 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-14 14:26:08.950 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-14 14:26:09.083 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-14 14:26:09.175 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-14 14:26:11.324 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-14 14:26:13.374 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-14 14:26:13.376 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-14 14:39:38.026 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-14 14:39:49.519 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-14 14:39:49.832 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-14 14:39:52.614 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-14 14:39:52.754 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-14 14:39:52.901 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-14 14:39:53.023 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-14 14:39:53.163 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-14 14:39:53.328 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-14 14:39:53.433 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-14 14:39:53.516 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-14 14:39:55.697 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-14 14:39:57.750 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-14 14:39:57.752 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-15 18:42:39.043 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:42:43.079 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:42:43.399 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:42:45.089 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:42:45.238 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:42:45.422 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:42:45.563 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:42:45.682 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:42:45.777 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:42:45.880 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:42:45.948 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:42:48.987 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:42:51.048 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-15 18:42:51.051 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-15 18:44:02.593 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:44:05.948 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:44:06.666 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:44:08.912 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:44:09.060 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:44:09.211 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:44:09.453 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:44:09.593 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:44:09.739 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:44:09.951 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:44:10.114 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:44:13.394 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:44:15.470 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 18:46:57.763 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:47:01.183 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:47:01.576 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:47:03.290 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:47:03.425 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:47:03.571 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:47:03.711 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:47:03.849 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:47:03.954 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:47:04.096 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:47:04.162 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:47:06.999 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:47:09.074 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 18:49:17.765 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:49:20.963 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:49:21.296 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:49:22.908 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:49:23.048 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:49:23.195 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:49:23.372 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:49:23.487 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:49:23.597 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:49:23.713 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:49:23.813 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:49:26.627 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:49:28.699 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 18:49:28.919 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-15 18:52:39.917 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:52:44.728 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:52:45.081 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:52:47.613 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:52:47.742 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:52:47.872 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:52:48.020 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:52:48.135 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:52:48.234 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:52:48.338 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:52:48.454 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:52:51.547 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:52:53.630 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 18:52:53.852 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-15 18:56:05.473 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 18:56:08.724 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 18:56:09.115 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 18:56:10.668 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 18:56:10.780 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 18:56:10.922 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 18:56:11.106 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 18:56:11.220 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 18:56:11.333 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 18:56:11.433 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 18:56:11.507 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 18:56:14.607 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 18:56:16.683 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 18:56:16.932 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-15 19:23:59.069 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-15 19:24:03.904 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-15 19:24:04.241 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-15 19:24:06.051 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-15 19:24:06.217 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-15 19:24:06.358 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-15 19:24:09.391 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-15 19:24:09.488 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-15 19:24:09.489 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-15 19:25:10.474 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-15 19:25:15.704 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-15 19:25:15.984 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-15 19:25:18.050 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-15 19:25:18.167 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-15 19:25:18.298 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-15 19:25:18.433 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-15 19:25:18.534 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-15 19:25:18.659 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-15 19:25:18.785 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-15 19:25:18.886 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-15 19:25:22.551 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-15 19:25:24.620 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-15 19:25:24.830 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-15 19:25:27.254 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-15 19:25:31.786 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-15 19:25:32.052 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-15 19:25:33.664 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-15 19:25:33.906 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-15 19:25:34.048 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-15 19:25:36.942 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-15 19:25:37.020 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-15 19:25:37.020 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 12:55:22.259 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 12:55:26.816 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 12:55:27.177 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 12:55:29.855 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 12:55:29.988 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 12:55:30.124 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 12:55:30.261 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 12:55:30.396 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 12:55:30.497 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 12:55:30.625 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 12:55:30.708 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 12:55:33.525 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 12:55:35.575 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-16 12:55:35.776 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-16 12:55:38.736 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-16 12:55:41.758 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-16 12:55:42.038 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-16 12:55:43.622 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-16 12:55:43.860 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-16 12:55:43.992 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-16 12:55:47.745 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-16 12:55:47.830 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-16 12:55:47.830 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 15:02:36.996 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 15:02:41.525 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 15:02:41.787 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 15:02:44.456 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 15:02:44.604 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 15:02:44.746 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 15:02:44.902 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 15:02:45.011 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 15:02:45.171 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 15:02:45.278 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 15:02:45.355 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 15:02:49.304 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 15:02:51.390 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-16 15:02:51.393 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-16 15:02:54.767 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-16 15:02:57.556 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-16 15:02:57.832 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-16 15:02:59.340 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-16 15:02:59.493 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-16 15:02:59.604 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-16 15:03:03.339 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-16 15:03:03.440 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-16 15:03:03.440 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 15:06:41.155 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 15:06:46.728 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 15:06:47.006 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 15:06:49.625 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 15:06:49.746 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 15:06:49.895 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 15:06:50.007 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 15:06:50.098 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 15:06:50.229 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 15:06:50.328 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 15:06:50.448 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 15:06:53.638 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 15:06:55.702 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-16 15:06:55.705 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-16 15:06:57.604 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-16 15:07:02.440 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-16 15:07:02.684 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-16 15:07:04.370 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-16 15:07:04.521 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-16 15:07:04.638 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-16 15:07:07.680 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-16 15:07:07.793 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-16 15:07:07.793 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 15:33:46.552 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 15:33:50.159 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 15:33:50.506 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 15:33:52.160 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 15:33:52.281 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 15:33:52.422 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 15:33:52.531 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 15:33:52.611 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 15:33:52.706 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 15:33:52.832 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 15:33:52.930 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 15:33:55.663 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 15:33:57.731 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-16 15:33:57.734 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
+2022-03-16 15:33:59.478 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-16 15:34:02.379 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-16 15:34:02.667 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-16 15:34:04.195 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-16 15:34:04.346 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-16 15:34:04.432 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-16 15:34:07.395 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-16 15:34:07.538 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-16 15:34:07.538 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 17:13:41.596 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 17:13:57.622 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 17:13:57.940 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 17:14:02.243 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 17:14:02.412 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 17:14:02.570 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 17:14:02.732 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 17:14:02.875 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 17:14:02.997 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 17:14:03.115 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 17:14:03.206 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 17:14:05.512 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 17:14:07.586 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration Failed
+2022-03-16 17:14:07.850 [main] INFO  testCases.TC_001_AccountRegistration - screenshot captured
+2022-03-16 17:14:10.578 [main] INFO  testCases.TC_002_LoginTest - started TC_002_LoginTest Execution
+2022-03-16 17:14:32.694 [main] INFO  testCases.TC_002_LoginTest - Home Page Displayed 
+2022-03-16 17:14:33.174 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount 
+2022-03-16 17:14:34.385 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+2022-03-16 17:14:34.557 [main] INFO  testCases.TC_002_LoginTest - email address entered
+2022-03-16 17:14:34.699 [main] INFO  testCases.TC_002_LoginTest - password entered
+2022-03-16 17:14:37.952 [main] INFO  testCases.TC_002_LoginTest - clicked on Login button
+2022-03-16 17:14:38.044 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+2022-03-16 17:14:38.044 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest Execution
+2022-03-16 17:16:32.278 [main] INFO  testCases.TC_001_AccountRegistration - Started TC_001_AccountRegistration Execution
+2022-03-16 17:16:43.324 [main] INFO  testCases.TC_001_AccountRegistration - Launched the url
+2022-03-16 17:16:43.656 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Myaccount
+2022-03-16 17:16:46.139 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+2022-03-16 17:16:46.273 [main] INFO  testCases.TC_001_AccountRegistration - provided first name
+2022-03-16 17:16:46.420 [main] INFO  testCases.TC_001_AccountRegistration - provided last name
+2022-03-16 17:16:46.591 [main] INFO  testCases.TC_001_AccountRegistration - provided email id
+2022-03-16 17:16:46.707 [main] INFO  testCases.TC_001_AccountRegistration - provided telephone number
+2022-03-16 17:16:46.808 [main] INFO  testCases.TC_001_AccountRegistration - provided password
+2022-03-16 17:16:46.926 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+2022-03-16 17:16:47.018 [main] INFO  testCases.TC_001_AccountRegistration - Set privacy policy
+2022-03-16 17:16:50.260 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue
+2022-03-16 17:16:52.328 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration successful
+2022-03-16 17:16:52.330 [main] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration Execution
